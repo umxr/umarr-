@@ -16,6 +16,12 @@ const PROJECTS: {
     href: 'https://www.naturkompaniet.no/no/',
   },
   {
+    title: 'Pooky Lighting',
+    description:
+      'Shopify, Theme Development, Custom App Development, React, GraphQL',
+    href: 'https://pooky.com/',
+  },
+  {
     title: 'Wine for good',
     description: 'Shopify, Theme Development',
     href: 'https://wineforgood.ie/',
